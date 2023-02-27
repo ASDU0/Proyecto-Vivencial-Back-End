@@ -1,0 +1,25 @@
+{
+  "name": "api-proyecto-vivencial",
+  "version": "1.0.0",
+  "description": "- In process <br>\r   ────────────────────────────── <br>\r   src <br>\r   │── routes <br>\r   │ ├── user.js <br>\r   │ ├── query.js <br>\r   │ └── ... <br>\r   │ <br>\r   │── models <br>\r   │ ├── user.model.js <br>\r   │ ├── query.model.js <br>\r   │ └── ...<br>\r   │ <br>\r   │── controllers <br>\r   │ ├── user.controller.js <br>\r   │ └── query.controller.js<br>\r   │ <br>\r   │── middleware <br>\r   │ ├── auth.middleware. <br>\r   │ ├── rol.middleware. <br>\r   │ └── ...<br>\r   │ <br>\r   │── utils <br>\r   │ ├── handle.error.js <br>\r   │ ├── handle.password.js <br>\r   │ └── ...<br>\r   │ <br>\r   │── validators <br>\r   │ ├── auth.validator.js <br>\r   │ ├── user.validator.js <br>\r   │ └── ...<br>\r   │ <br>\r   │── config <br>\r   │ ├── mongo.js <br>\r   │ └── ...<br>\r   ────────────────────────── <br>\r   storage <br>\r   │── users <br>\r   │── ..<br>\r   ────────────────────────── <br>\r   .env <br>\r   │── DB_URI <br>\r   │── PORT <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASDU0/Proyecto-Vivencial-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASDU0/Proyecto-Vivencial-Back-End/issues"
+  },
+  "homepage": "https://github.com/ASDU0/Proyecto-Vivencial-Back-End#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
