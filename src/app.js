@@ -18,7 +18,7 @@ app.use(express.static("storage"))
 /**
  * Importando todas las rutas por nombre de archivo
  */
-app.use("/api", require("./routes"))
+app.use("/", require("./routes"))
 
 
 
@@ -28,6 +28,6 @@ app.use("/api", require("./routes"))
 
 const PORT = process.env.PORT || 3003;
 app.listen(PORT, () => {
-  console.log("El servidor esta corriendo en el puerto" + PORT);
+  console.log("El servidor esta corriendo en el puerto " + PORT);
 })
 dbConnect()
