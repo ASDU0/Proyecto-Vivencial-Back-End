@@ -33,21 +33,7 @@ const Alojamiento =
   "precio": {
     "valor": 2000,
     "moneda": "PEN"
-  },
-  "evaluaciones": [
-    {
-      "usuario_id": ObjectId("616d6f14281c20f0d8c0fb92"),
-      "comentario": "La casa es hermosa y la piscina es genial",
-      "puntuacion": 5,
-      "fecha": ISODate("2022-08-01T12:34:56Z")
-    },
-    {
-      "usuario_id": ObjectId("616d6f14281c20f0d8c0fb93"),
-      "comentario": "La vista al mar es espectacular",
-      "puntuacion": 4,
-      "fecha": ISODate("2022-08-05T09:12:34Z")
-    }
-  ]
+  }
 }
 
 const reservas =
@@ -90,20 +76,6 @@ const Usuarios =
   "reservas": [
     ObjectId("618e94c71dcd677e4de4a679"),
     ObjectId("618e94d91dcd677e4de4a67a")
-  ],
-  "evaluaciones": [
-    {
-      "alojamiento_id": ObjectId("617483b2a43556e04ab52712"),
-      "comentario": "Excelente alojamiento, todo muy limpio y cómodo",
-      "puntuacion": 5,
-      "fecha": ISODate("2022-11-12T14:30:00Z")
-    },
-    {
-      "alojamiento_id": ObjectId("617483c2a43556e04ab52713"),
-      "comentario": "El alojamiento estuvo bien pero la ubicación no era la mejor",
-      "puntuacion": 3,
-      "fecha": ISODate("2022-12-01T09:45:00Z")
-    }
   ]
 }
 
