@@ -1,6 +1,6 @@
 # Proyecto Vivencial
 
-- In process <br>
+- The proyect is completed<br>
   ────────────────────────────── <br>
   src <br>
   │── routes <br>
